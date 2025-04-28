@@ -206,9 +206,9 @@ int main(void)
 void lcd_display()
 {
 	Lcd_cursor(&lcd,0,1);
-	Lcd_string(&lcd,"NAVYA\n");
+	Lcd_string(&lcd,"DEPT-AI&DS\n");
 	Lcd_cursor(&lcd,1,1);
-	Lcd_string(&lcd,"212223040138\n");
+	Lcd_string(&lcd,"HEZRON\n");
 
 }
 
@@ -326,14 +326,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots of proteus  :
-![Screenshot 2025-03-29 113832](https://github.com/user-attachments/assets/f5844c71-5cb8-468b-8a1d-385450bdc745)
 
- 
+ ![WhatsApp Image 2025-04-28 at 21 07 34_bff0931f](https://github.com/user-attachments/assets/f2195366-220a-4af1-a7f1-b65eebeb9b2a)
+
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- 
- ![Screenshot 2025-03-29 131539](https://github.com/user-attachments/assets/a256799f-1bfe-4493-9bae-e5825eb36f90)
+ ![Screenshot 2025-04-28 211132](https://github.com/user-attachments/assets/1c22c96b-b6d2-4a0d-b99c-3712998afc6e)
+
 
  
 ## Result :
